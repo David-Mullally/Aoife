@@ -48,7 +48,7 @@ a {
 
 .nav-link {
   color: #E5EBB2;
-  font-size: 1.5vw;
+  font-size: 2vw;
 }
 
 .navbar-brand, .navbar-brand-aside, .navbar-brand-title {
@@ -66,7 +66,7 @@ a {
 }
 
 .navbar-brand-aside {
-  font-size: 1.5vw;
+  font-size: 2vw;
 }
 
 .navbar-brand-image {
@@ -261,11 +261,15 @@ width: 20vw;
 }
 
 .ps {
-  font-size: 1.5vw;
+  font-size: 2vw;
 }
 
 #contacts {
   padding: 0;
+}
+
+.contacts-text {
+  font-size: 2vw;
 }
 
 .socials {
