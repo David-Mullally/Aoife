@@ -1,0 +1,277 @@
+
+/*--Color scheme--*/
+.zz {
+color: #E97777;
+color: #FF8787;
+color: #F8C4B4;
+color: #E5EBB2;
+color: #BCE29E;
+}
+
+body, html {
+  background-color: #E97777;
+  color: #E5EBB2;
+  font-family: "Montserrat";
+  margin-left: 1vw;
+  margin-top: 2vw;
+  padding: 0;
+  position: absolute;
+  text-align: center;
+  width: 100vw;
+}
+
+a {
+  color:  #FF8787;
+}
+
+#features, #about {
+  text-align: center;
+}
+/* title Background (navbar + header) */
+
+.title-background {
+  position: absolute;
+  top: -3vw;
+  transform: scaleX(-1)
+}
+
+.unicorn {
+  width: 100vw;
+  height: 50vw;
+}
+
+/*---Nav Bar---*/
+.navbar {
+  margin-top: 5vw;
+  width: 100vw;
+}
+
+.nav-link {
+  color: #E5EBB2;
+  font-size: 1.5vw;
+}
+
+.navbar-brand, .navbar-brand-aside, .navbar-brand-title {
+  color: #242526;
+}
+
+.navbar-brand {
+  font-size: 4vw;
+  font-weight: 800;
+}
+
+.navbar-brand-title {
+  display: inline;
+  padding: 0;
+}
+
+.navbar-brand-aside {
+  font-size: 1.5vw;
+}
+
+.navbar-brand-image {
+  border: 0.1vw solid gray;
+  border-radius: 100%;
+  border-style: inset;
+  margin-right: 2vw;
+  width: 10vw;
+
+}
+
+/*---- Header----*/
+header {
+  padding: 3vw 0;
+}
+
+.header-title, .header-title-last{
+  color: #002408 ;
+  text-shadow: 1vw 1vw 2vw #000;
+  font-weight: 900;
+  font-size: 3.5vw;
+  margin-left: 4vw;
+}
+
+.header-title-last {
+ margin-bottom: 0;
+}
+
+.facepalm {
+  border-style: inset;
+  margin-left: 6vw;
+  position: relative;
+  top: 30vw;
+  transform: rotate(50deg);
+  width: 18vw;
+}
+
+/*----Features Section----*/
+ #features {
+  background-color: #FFF5EE;
+  color: #FF8787;
+  font-weight: 600;
+  font-size: 1.7vw;
+  margin-top: 2vw;
+  padding: 3vw 0;
+  position: relative;
+  z-index: 1;
+ }
+
+ .feature {
+  margin: 5vw 0;
+  padding: 0 9vw;
+ }
+
+.feature-header{
+  font-size: 3vw;
+  font-weight: 600;
+  margin: 1vw 0;
+}
+ .feature-icon:hover {
+  color: #E97777;
+ }
+
+/*----About Section----*/
+#about {
+  padding: 10vw;
+
+}
+.about-header{
+  font-size: 8vw;
+  font-weight: 800;
+  margin-bottom: 6vw;
+}
+
+.name-explanation {
+  font-size: 3vw;
+  margin: 8vw 0;
+}
+
+/*-----Testimonial Section-----*/
+#testimonials {
+  background-color: #FFF5EE;
+  color: #FF8787;
+}
+
+.testimonial {
+  width: 100vw;
+}
+
+.visually-hidden {
+  font-weight: 600;
+  color: #FF8787
+}
+
+.testimonial-slide {
+ margin: 5vw 0;
+}
+
+.testimonial {
+  font-size: 3vw;
+  font-weight: 800;
+}
+
+.testimonial-image {
+height: 15vw;
+width: 20vw;
+}
+
+.fan {
+  font-size: 1.5vw;
+}
+
+.slide-indicator {
+  background-color: #E97777;
+  color: #FFF5EE;
+  margin-bottom: 2vw;
+}
+
+/*-----Gallery-----*/
+
+#gallery {
+  margin: 10vw 0;
+}
+
+.gallery-viewer {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+#previous-button {
+  height: 10vw;
+  transform: scaleX(-1);
+  width: 10vw;
+}
+
+#ultrasound-title{
+  font-size: 3vw;
+  font-weight: 600;
+}
+
+.ultrasound-image {
+  height: 30vw;
+  width: 50vw;
+}
+
+.ultrasound-description {
+  font-size: 3vw;
+  margin: 0 25vw;
+}
+
+#next-button {
+  height: 10vw;
+  width: 10vw;
+}
+
+#thumbnail-reel {
+  margin: 3vw 0;
+}
+
+.thumbnail {
+  width: 10vw;
+}
+
+/*--Events--*/
+#events {
+  color:  #FF8787;
+  background-color: #FFF5EE;
+  font-size: 3vw;
+  font-weight: 600;
+  margin: 5vw 0;
+  padding: 5vw 4vw;
+  width: 100vw;
+}
+.invitation {
+  height: 50vw;
+  margin: 2vw 0;
+  width: 60vw;
+}
+
+.baby-shower-options {
+  color: #FF8787;
+  font-size: 4vw;
+  font-weight: 600;
+  margin: 0 2vw;
+  text-decoration: none;
+}
+
+.baby-shower-options:hover {
+  color:  #E97777;
+  text-decoration: none;
+}
+
+.ps {
+  font-size: 1.5vw;
+}
+
+#contacts {
+  padding: 0;
+}
+
+.socials {
+  color: #FFF;
+}
+
+.socials:hover{
+  color:  #FFF5EE;
+}
