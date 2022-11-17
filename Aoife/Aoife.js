@@ -1,58 +1,58 @@
 let ultraschallArray = [
   {
         name:
-            'Ultrasound 0',
+            'Sumo-Suit',
         source:
             'images/Aoife-images/ultraschall0.jpeg',
-        description: 'description 0',
+        description:'Does my belly look big in this?'
   },
   {
       name:
-          'Ultrasound 1',
+          'Pardon me!',
       source:
           'images/Aoife-images/ultraschall1.jpeg',
       description:
-          'description 1'
+          'I think my epidermis is showing!'
   },
   {
       name:
-          'Ultrasound 2',
+          'The Facepalm',
       source:
           'images/Aoife-images/ultraschall2.jpeg',
       description:
-          'description 2'
+          'My best Picard impression'
   },
   {
       name:
-          'Ultrasound 3',
+          'The Slipknot',
       source:
           'images/Aoife-images/ultraschall3.jpeg',
       description:
-          'description 3'
+          'look at it sideways'
   },
   {
       name:
-          'Ultrasound 4',
+          'The UFO',
       source:
           'images/Aoife-images/ultraschall4.jpeg',
       description:
-          'description 4'
+          'Houston we have a baby!'
   },
   {
       name:
-          'Ultrasound 5',
+          'No comment',
       source:
           'images/Aoife-images/ultraschall5.jpeg',
       description:
-          'description 5'
+          '..........'
   },
   {
       name:
-          'Ultrasound 6',
+          'Sumo-Suit 2',
       source:
           'images/Aoife-images/ultraschall6.jpeg',
       description:
-          'description 6',
+          '........'
   },
 ]
 

@@ -210,12 +210,13 @@ width: 20vw;
 
 .ultrasound-image {
   height: 30vw;
+  margin: 0 2vw;
   width: 50vw;
 }
 
 .ultrasound-description {
   font-size: 3vw;
-  margin: 0 25vw;
+  margin: 0 3vw;
 }
 
 #next-button {
