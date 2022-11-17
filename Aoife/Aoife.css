@@ -37,7 +37,7 @@ a {
 
 .unicorn {
   width: 100vw;
-  height: 50vw;
+  height: 100vw;
 }
 
 /*---Nav Bar---*/
@@ -85,10 +85,10 @@ header {
 
 .header-title, .header-title-last{
   color: #002408 ;
-  text-shadow: 1vw 1vw 2vw #000;
   font-weight: 900;
   font-size: 3.5vw;
-  margin-left: 4vw;
+  margin: 0;
+  position: relative;
 }
 
 .header-title-last {
@@ -99,7 +99,7 @@ header {
   border-style: inset;
   margin-left: 6vw;
   position: relative;
-  top: 30vw;
+  top: 27vw;
   transform: rotate(50deg);
   width: 18vw;
 }
